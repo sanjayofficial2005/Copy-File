@@ -36,8 +36,8 @@ with open("copy.txt",'w') as fp1:
 ```
 
 ### OUTPUT:
-![alt text](<Screenshot 2024-05-12 103708.png>)
 ![alt text](<Screenshot 2024-05-12 103821.png>)
+![alt text](<Screenshot 2024-05-12 103708.png>)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
